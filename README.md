@@ -1,2 +1,1 @@
-# Request Risk Archive β0.1
-GitHub Pagesへアップロードしてください。
+β0.2.1
