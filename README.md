@@ -1,2 +1,2 @@
-# request-risk-archive
-Request Risk公式Archive
+# Request Risk Archive β0.1
+GitHub Pagesへアップロードしてください。
