@@ -1,0 +1,1 @@
+document.querySelectorAll('.card').forEach(b=>b.onclick=()=>alert('β版です。ここに機能を追加していきます。'));
