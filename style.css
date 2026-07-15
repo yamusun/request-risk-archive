@@ -1,1 +1,5 @@
-body{margin:0;background:#091525;color:#eef5ff;font-family:-apple-system,sans-serif}header{padding:20px;background:#11233b}#app{padding:20px}.card,button{display:block;width:100%;margin:10px 0;padding:14px;background:#1b3555;color:#fff;border:1px solid #4472a3;border-radius:12px;text-align:left}.small{opacity:.8}table{width:100%}td{padding:8px;border-bottom:1px solid #28415d}.notice{background:#402;padding:10px;border:1px solid #955}
+body{margin:0;background:#0a1524;color:#eef5ff;font-family:-apple-system,BlinkMacSystemFont,sans-serif}
+header{background:#14253d;padding:22px}h1{margin:0}span{color:#7fd3ff}
+#app{padding:20px}.card,button{display:block;width:100%;box-sizing:border-box;margin:12px 0;padding:15px;border-radius:12px;background:#233b5b;color:#fff;border:1px solid #4972a6;text-align:left}
+.small{opacity:.8}.notice{background:#5a0025;border:1px solid #b66;padding:12px;border-radius:8px;margin-bottom:16px}
+table{width:100%;border-collapse:collapse}td{padding:8px;border-bottom:1px solid #345}
